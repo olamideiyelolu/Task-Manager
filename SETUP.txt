@@ -1,0 +1,10 @@
+1. Create Folder TaskTracker
+    Run Command 'npm init -y'
+2. In TaskTracker create two folders, public & server
+3. In server create index.js
+4. In public create index.html and another folder called style
+5. Run Command 'npm install tailwindcss @tailwindcss/cli'
+6. Add the @import "tailwindcss"; import to your main CSS file ("style/styles.css")
+7. run command to get Tailwind up and running as is 'npx @tailwindcss/cli -i ./public/style/styles.css -o ./public/style/output.css --watch
+≈ tailwindcss v4.1.18'
+8. Now tailwind is runnig nice on your computer without any framework

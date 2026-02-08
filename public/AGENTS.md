@@ -1,0 +1,1 @@
+--Use tailwindcss only when designing html
