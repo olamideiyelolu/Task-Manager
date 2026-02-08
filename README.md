@@ -2,6 +2,8 @@
 
 This is a nice Task Manager (made in the big 2026😭). PS. I just wanted to build out a quick Web project with Node.js, HTML,and Vanilla JS with the DOM to try out using Codex to fully design the html file using TailwindCSS
 
+![Demo screenshot](/public/Image/demo.png)
+
 ## Setup
 
 1. Create a folder named `TaskTracker` and run:
